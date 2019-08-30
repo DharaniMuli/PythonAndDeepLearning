@@ -1,0 +1,28 @@
+Write a program, which reads weights (lbs.) of N students into a list and convert these weights to kilograms in a separate list using:
+1) Loops and
+2) List comprehensionsN
+: No of students (Read input from user)
+Ex: L1: [150,155, 145, 148]
+Output: [68.03, 70.3, 65.77, 67.13]
+
+
+
+
+Write a program that returns every other char of a given string starting with first using a function named “string_alternative”
+Str = “Good evening”
+Output: Go vnn
+Note: You need to create a function named “string_alternative” for this program and call it from main function.
+
+
+wordcount in a file for each line and thenprint the output.Finally store the output back to the file.
+Input: a file includes two line
+Python Course
+Deep Learning Course
+
+Output:
+Python: 1
+Course: 2
+Deep: 1
+Learning: 1
+
+Note: Your program should work for any
