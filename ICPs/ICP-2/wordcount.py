@@ -16,6 +16,7 @@
 # print(worddic)
 
 f = open("sample.txt","r")
+outputfile = open("output.txt","w")
 
 worddic ={}
 words = []
@@ -30,3 +31,7 @@ for word in words:
         worddic.update({word:1})
 
 print(worddic)
+# outputfile.write(str(worddic))
+
+for k,v in worddic.items():
+    outputfile.write("{} {} \n".format(k,v))
