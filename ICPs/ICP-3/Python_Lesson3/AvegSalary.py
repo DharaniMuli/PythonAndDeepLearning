@@ -38,12 +38,19 @@ class FulltimeEmployee(Employee):
             return maxsalary
 
 if __name__ == '__main__':
-    e = Employee("Rani", "M", 2, "Developer")
-    f1 = FulltimeEmployee("Nani", "K", 3, "DataScientist")
 
-    #Access base class method
+    moredata= "y"
+
+    while moredata.lower() == 'y':
+        name = input("Enter First Name: ")
+        family = input("Enter Last Name:")
+        salary = int(input("Enter Salary:"))
+        department = input("Enter Department:")
+        f1 = FulltimeEmployee(name, family, salary, department)
+        moredata=input("Do you want to add  Employee(Y/N):")
+        # Access base class method
     f1.avg_salary()
-    print("Average of Salary:",Employee.total_avg_salary)
+    print("Average Salary:", Employee.total_avg_salary)
     f1.highestsalary()
 
     #Access Derived class method
