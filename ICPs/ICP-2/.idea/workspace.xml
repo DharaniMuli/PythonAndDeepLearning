@@ -2,24 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4f36cc4-ba2b-452f-abe2-c92dd0438d74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ProgrammingForBigDataCA2CarRental-master/.idea/ProgrammingForBigDataCA2CarRental-master.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ICP-3/.idea/ICP-3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ICP-3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ICP-3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ICP-3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ICP-3/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ICP-3/Numpy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ICP-3/Program1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ICP-3/Program1_c.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ICP-3/Program1_d.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ICP-3/Program1_e.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ICP-3/Samples.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ICP-2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ICP-2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LbToKg.py" beforeDir="false" afterPath="$PROJECT_DIR$/LbToKg.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sample.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wordcount.py" beforeDir="false" afterPath="$PROJECT_DIR$/wordcount.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingForBigDataCA2CarRental-master/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammingForBigDataCA2CarRental-master/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICP-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ICP-3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICP-3/Numpy.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ICP-3/Numpy.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -137,7 +122,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ProgrammingForBigDataCA2CarRental-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ICP-3/Python_Lesson3" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -261,7 +246,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24925596" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
