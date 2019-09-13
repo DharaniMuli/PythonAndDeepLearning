@@ -13,10 +13,6 @@ def soup_search():
     wikititle =soup.title
     print("Title is:",wikititle)
 
-    # fetching links
-    links= soup.find_all('a')
-    print(links)
-
     # Writing results into a file
     with open("output1.html", "a") as file:
         file.write(str(wikititle))

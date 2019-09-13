@@ -18,7 +18,21 @@ import numpy as np
 
 # randomvale= np.random.random_integers(1, 20,15)   -- this is deprecated
 
+
+
+
+
+#Generating 15 Random numbers bwtween 1to20
 randomvale= np.random.randint(1, 20,15)
-print(randomvale)
-randomvale[randomvale.argmax()]=0
-print(randomvale)
+
+# Converting one dimentional to multi dimentional
+reshaapping=randomvale.reshape(3,5)
+print(reshaapping)
+
+# Finding the max value and replacing with zero
+numzero=np.where(reshaapping==np.amax(reshaapping,axis=1,keepdims=True),0,reshaapping)
+
+print(numzero)
+
+
+
