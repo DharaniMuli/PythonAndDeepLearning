@@ -1,41 +1,38 @@
-from sklearn.naive_bayes import GaussianNB
-from sklearn.model_selection import KFold
-from sklearn import preprocessing
-from sklearn import metrics
-from sklearn.metrics import confusion_matrix
 import pandas as pd
-import numpy as np
-
 glass_data = pd.read_csv('../glass.csv')
 
-label_encoder = preprocessing.LabelEncoder()
-data = glass_data
-iris_data = label_encoder.fit_transform(glass_data.values[:, 9])
 
-X = data.values[:, :4]
-Y = iris_data
+# print(glass_data.isnull().sum())
 
+#Preprocessing data
+x=glass_data.drop('Type',axis=1)
+y=glass_data['Type']
+
+
+#----------Splitting Data-----------#
+# Import train_test_split function
+from sklearn import model_selection
+
+# Split dataset into training set and test set
+X_train, X_test, y_train, y_test = model_selection.train_test_split(x, y, test_size=0.2,random_state=0) # 70% training and 30% test
+
+#-----------Model Generation ----------#
+#Import Gaussian Naive Bayes model
+from sklearn.naive_bayes import GaussianNB
+
+#Create a Gaussian Classifier
 model = GaussianNB()
-kf = KFold(n_splits=15, shuffle=True,random_state=50)
-accuracy = []
 
-for train_index, test_index in kf.split(X):
-   X_train, X_test = X[train_index], X[test_index]
-   Y_train, Y_test = Y[train_index], Y[test_index]
+#Train the model using the training sets
+model.fit(X_train, y_train)
 
-   #Training the model
-   model.fit(X_train, Y_train)
+#Predict the response for test dataset
+y_pred = model.predict(X_test)
 
-   #Predictions
-   y_pred = model.predict(X_test)
 
-   #Accuracy score
-   print("Accuracy score: ", metrics.accuracy_score(Y_test, y_pred))
-   accuracy.append(metrics.accuracy_score(Y_test, y_pred))
+#----------Evaluating the model -------------#
+from sklearn import metrics
 
-   #Confusion Matrix
-   confusionmatrix = confusion_matrix(Y[test_index], y_pred)
-   print(confusionmatrix)
-
-#Mean Accuracy
-print("Mean Accuracy Score: ", np.mean(accuracy))
+# Model Accuracy, how often is the classifier correct?
+print("Accuracy:",metrics.accuracy_score(y_test, y_pred))
+print("classification_report\n",metrics.classification_report(y_test,y_pred))
