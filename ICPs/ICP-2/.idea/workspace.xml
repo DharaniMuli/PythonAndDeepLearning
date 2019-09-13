@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e4f36cc4-ba2b-452f-abe2-c92dd0438d74" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../ICP-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ICP-3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ICP-3/Numpy.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ICP-3/Numpy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ICP-3/Python_Lesson3/AvgSalary_ObjectList.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ICP-3/Python_Lesson3/AvgSalary_ObjectList.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ICP-3/output1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ICP-3/output1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ICP-3/webscrap.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ICP-3/webscrap.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,8 +42,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wordcount.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            <state relative-caret-position="231">
+              <caret line="33" column="26" lean-forward="true" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -116,6 +112,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -127,13 +124,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ICP-4/Python_Lesson4" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -257,7 +253,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24925596" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -280,13 +275,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/LbToKb_2.py" />
-    <entry file="file://$PROJECT_DIR$/output.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LbToKg.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -308,6 +296,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/output.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sample.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -324,8 +319,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wordcount.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="231">
+          <caret line="33" column="26" lean-forward="true" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
         </state>
       </provider>
     </entry>
