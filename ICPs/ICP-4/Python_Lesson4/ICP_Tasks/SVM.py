@@ -28,7 +28,7 @@ for train_index, test_index in kf.split(X):
 
    y_pred = model.predict(X_test)
 
-   print("Accuracy score: ", metrics.accuracy_score(Y_test, y_pred))
+   # print("Accuracy score: ", metrics.accuracy_score(Y_test, y_pred))
    accuracy.append(metrics.accuracy_score(Y_test, y_pred))
 
 
