@@ -9,17 +9,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 dataset = pd.read_csv('CC.csv')
-
-print(dataset.dtypes)
-
-
-
-x = dataset.iloc[:,[2, -5,-6]]
-y = dataset.iloc[:,-1]
-print(x.shape, y.shape)
-
-# see how many samples we have of each species
-print(dataset["TENURE"].value_counts())
+x = dataset
 
 ## Null values
 nulls = pd.DataFrame(x.isnull().sum().sort_values(ascending=False)[:25])
@@ -50,8 +40,6 @@ from sklearn import metrics
 score = metrics.silhouette_score(X_scaled, y_cluster_kmeans)
 print("Silhoutte Score without PCA: " + str(score))
 
-
-
 # Reducing the dimensionality from 3 to 2 using PCA
 pca = PCA(2)
 x_pca = pca.fit_transform(X_scaled)
@@ -63,6 +51,7 @@ nclusters = 3 # this is the k in kmeans
 km = KMeans(n_clusters=nclusters)
 km.fit(df2)
 
+#Bonus
 # predict the cluster for each data point after applying PCA.
 y_cluster_kmeans = km.predict(df2)
 score = metrics.silhouette_score(df2, y_cluster_kmeans)

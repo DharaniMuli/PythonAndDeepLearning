@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da768644-b18f-425c-9cda-ed108aa39c28" name="Default Changelist" comment="" />
+    <list default="true" id="da768644-b18f-425c-9cda-ed108aa39c28" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../LabAssignments/Lab-1/PythonLab-1/BeautifulSoup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LabAssignments/Lab-1/PythonLab-1/LibraryManagementSystem.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICP-4/Python_Lesson4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ICP-4/Python_Lesson4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICP-5/Python_Lesson5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ICP-5/Python_Lesson5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICP-6/Python_Lesson6/.idea/Python_Lesson5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ICP-6/Python_Lesson6/.idea/Python_Lesson5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICP-6/Python_Lesson6/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ICP-6/Python_Lesson6/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICP-6/Python_Lesson6/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ICP-6/Python_Lesson6/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICP-6/Python_Lesson6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICP-6/Python_Lesson6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ICP-6/Python_Lesson6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICP-6/Python_Lesson6/Clusterusing.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ICP-6/Python_Lesson6/Clusterusing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICP-6/Python_Lesson6/Iris.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../ICP-6/Python_Lesson6/Iris.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICP-6/Python_Lesson6/PCA.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ICP-6/Python_Lesson6/PCA.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICP-6/Python_Lesson6/venv/pyvenv.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LabAssignments/Lab-1/PythonLab-1/LongestSubstring.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../LabAssignments/Lab-1/PythonLab-1/LongestSubstring.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,11 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Program1_e.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="30" column="16" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="16" />
+            <state relative-caret-position="136">
+              <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -22,8 +38,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python_Lesson3/AvegSalary.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="48" column="10" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
+            <state relative-caret-position="493">
+              <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -37,11 +53,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/webscrap.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+            <state relative-caret-position="187">
+              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -95,10 +111,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="64" />
+    <option name="x" value="-11" />
     <option name="y" value="-11" />
-    <option name="width" value="1857" />
-    <option name="height" value="1092" />
+    <option name="width" value="1386" />
+    <option name="height" value="788" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -106,6 +122,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -113,22 +130,16 @@
               <item name="ICP-3" type="b2602c69:ProjectViewProjectNode" />
               <item name="ICP-3" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="ICP-3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ICP-3" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_Lesson3" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ICP-2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ICP-6" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -274,9 +285,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -316,10 +326,10 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Python_Lesson3/codon.tsv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Python_Lesson3/NumPyEx.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -366,34 +376,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Program1_e.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="30" column="16" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Lesson3/AvegSalary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="48" column="10" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Numpy.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="31" column="47" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webscrap.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -408,6 +394,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Lesson3/AvegSalary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Program1_e.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webscrap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

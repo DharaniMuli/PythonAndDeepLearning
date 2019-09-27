@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e95b425-726c-4776-9b21-ab3b4abbe62f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/remove_anamolies_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/remove_anamolies_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ICP-4/Python_Lesson4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP-4/Python_Lesson4/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/multiple_regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/multiple_regression.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/remove_anamolies.py" beforeDir="false" afterPath="$PROJECT_DIR$/remove_anamolies.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,11 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/multiple_regression.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="47" column="20" lean-forward="true" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
+            <state relative-caret-position="136">
+              <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -30,11 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/remove_anamolies_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+            <state relative-caret-position="204">
+              <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -45,7 +40,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/remove_anamolies_3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
+            <state relative-caret-position="272">
               <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
@@ -57,7 +52,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/regression.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
+            <state relative-caret-position="765">
               <caret line="47" selection-start-line="47" selection-end-line="47" selection-end-column="36" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
@@ -69,7 +64,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/remove_anamolies.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
+            <state relative-caret-position="357">
               <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
@@ -135,7 +130,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../LabAssignments/Lab-1" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -150,7 +145,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.remove_anamolies_2">
+  <component name="RunManager" selected="Python.multiple_regression">
     <configuration name="multiple_regression" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Lesson5" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -288,15 +283,15 @@
     <list>
       <item itemvalue="Python.multiple_regression" />
       <item itemvalue="Python.remove_anamolies" />
-      <item itemvalue="Python.sample" />
-      <item itemvalue="Python.remove_anamolies_3" />
       <item itemvalue="Python.remove_anamolies_2" />
+      <item itemvalue="Python.remove_anamolies_3" />
+      <item itemvalue="Python.sample" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.multiple_regression" />
         <item itemvalue="Python.remove_anamolies_2" />
         <item itemvalue="Python.remove_anamolies" />
-        <item itemvalue="Python.multiple_regression" />
         <item itemvalue="Python.remove_anamolies_3" />
         <item itemvalue="Python.sample" />
       </list>
@@ -317,7 +312,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1386" height="788" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -342,13 +336,13 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test.csv" />
     <entry file="file://$PROJECT_DIR$/winequality-red.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
       <provider selected="true" editor-type-id="csv-text-editor">
         <state>
           <caret column="145" selection-start-column="138" selection-end-column="145" />
         </state>
-      </provider>
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sample.py">
@@ -362,45 +356,15 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/train.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/regression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="47" selection-start-line="47" selection-end-line="47" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/remove_anamolies_3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/multiple_regression.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="47" column="20" lean-forward="true" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/remove_anamolies.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+        <state relative-caret-position="136">
+          <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
@@ -409,8 +373,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/remove_anamolies_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+        <state relative-caret-position="204">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/remove_anamolies_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="47" selection-start-line="47" selection-end-line="47" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/remove_anamolies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
