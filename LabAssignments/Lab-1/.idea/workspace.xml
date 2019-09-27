@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="167199e9-2065-4533-ad4c-6dce89bef74d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PythonLab-1/BeautifulSoup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonLab-1/LibraryManagementSystem.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICPs/ICP-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICPs/ICP-3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICPs/ICP-4/Python_Lesson4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICPs/ICP-4/Python_Lesson4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICPs/ICP-5/Python_Lesson5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICPs/ICP-5/Python_Lesson5/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICPs/ICP-6/ICP/Clusterusing.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICPs/ICP-6/ICP/Clusterusing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ICPs/ICP-6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICPs/ICP-6/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ICPs/ICP-6/ICP/PCA.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICPs/ICP-6/ICP/PCA.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICPs/ICP-6/Python_Lesson6/.idea/Python_Lesson5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICPs/ICP-6/Python_Lesson6/.idea/Python_Lesson5.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICPs/ICP-6/Python_Lesson6/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICPs/ICP-6/Python_Lesson6/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICPs/ICP-6/Python_Lesson6/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICPs/ICP-6/Python_Lesson6/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICPs/ICP-6/Python_Lesson6/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICPs/ICP-6/Python_Lesson6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICPs/ICP-6/Python_Lesson6/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICPs/ICP-6/Python_Lesson6/Clusterusing.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICPs/ICP-6/Python_Lesson6/Clusterusing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICPs/ICP-6/Python_Lesson6/Iris.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICPs/ICP-6/Python_Lesson6/Iris.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICPs/ICP-6/Python_Lesson6/PCA.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICPs/ICP-6/Python_Lesson6/PCA.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICPs/ICP-6/Python_Lesson6/venv/pyvenv.cfg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonLab-1/LongestSubstring.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLab-1/LongestSubstring.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -143,6 +128,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ICPs/ICP-3" />
   </component>
   <component name="RunDashboard">

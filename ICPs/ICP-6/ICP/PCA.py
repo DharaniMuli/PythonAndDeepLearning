@@ -40,11 +40,28 @@ from sklearn import metrics
 score = metrics.silhouette_score(X_scaled, y_cluster_kmeans)
 print("Silhoutte Score without PCA: " + str(score))
 
+
+# Create a Covariance Matrix
+covar_matrix = PCA(10)
+covar_matrix.fit(X_scaled)
+variance = covar_matrix.explained_variance_ratio_ #calculate variance ratios
+
+var=np.cumsum(np.round(covar_matrix.explained_variance_ratio_, decimals=3)*100)
+var #cumulative sum of variance explained with [n] features
+plt.ylabel('% Variance Explained')
+plt.xlabel('# of Features')
+plt.title('PCA Analysis')
+plt.ylim(30,100.5)
+plt.style.context('seaborn-whitegrid')
+
+
+plt.plot(var)
+plt.show()
+
 # Reducing the dimensionality from 3 to 2 using PCA
-pca = PCA(2)
+pca = PCA(6)
 x_pca = pca.fit_transform(X_scaled)
 df2 = pd.DataFrame(data=x_pca)
-finaldf = pd.concat([df2,dataset[['TENURE']]],axis=1)
 
 # Building the model after Dimensionality redcution
 nclusters = 3 # this is the k in kmeans
