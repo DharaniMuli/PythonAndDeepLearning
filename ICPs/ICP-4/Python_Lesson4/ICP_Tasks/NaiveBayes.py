@@ -15,7 +15,10 @@ from sklearn import model_selection
 
 # Split dataset into training set and test set
 X_train, X_test, y_train, y_test = model_selection.train_test_split(x, y, test_size=0.2,random_state=0) # 70% training and 30% test
-
+print("X-Train\n",X_train)
+print("Y-Train\n",y_train)
+print("X-Test\n",X_test)
+print("Y-Test\n",y_test)
 #-----------Model Generation ----------#
 #Import Gaussian Naive Bayes model
 from sklearn.naive_bayes import GaussianNB

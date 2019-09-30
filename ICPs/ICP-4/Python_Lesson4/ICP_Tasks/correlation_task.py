@@ -17,6 +17,7 @@ print(train_df[["Sex", "Survived"]].groupby(['Sex'], as_index=False).mean().sort
 
 ##Analyze by visualizing data
 ####Correlating numerical features
+train_df.corr()
 g = sns.FacetGrid(train_df, col='Survived')
 g.map(plt.hist, 'Sex', bins=20)
 plt.show()

@@ -1,4 +1,4 @@
-class availableBooks:
+class availableBooks:                                                                  # Class to check availability of books
     booklist = {
         "Book1": 1, "Book2": 2, "Book3": 4
     }
@@ -12,17 +12,17 @@ class availableBooks:
         for item in self.booklist:
             count = count+1
             print(count, ".", item,self.booklist[item])
-class checkOutBook(availableBooks):
-    def requestBook(self):
+class checkOutBook(availableBooks):                                                    # Class for checking out books which inherits
+    def requestBook(self):                                                             # properties of "availableBooks" Class(Child Class)
         bookchoice=input("Please enter name of the book:")
         booksCount = availableBooks.booklist[bookchoice]-1
         availableBooks.booklist.update({bookchoice:booksCount})
         print("You book has been issued sucessfully")
-class BookReturn:
+class BookReturn:                                                                       # Class Book Returns
     def returnBook(self):
         bookchoice = input("Please enter name of the book that you wanted to return:")
         booksCount = availableBooks.booklist[bookchoice] + 1
-        availableBooks.booklist.update({bookchoice: booksCount})
+        availableBooks.booklist.update({bookchoice: booksCount})                        # Accessing and Updating the other class variables
         print("You choose to return ", bookchoice, "and it is sucessfull")
 
 
@@ -40,7 +40,7 @@ while decision.lower()=='y':
     checkOutBookObj= checkOutBook()
     BookReturnObj= BookReturn()
     if choice == 1:
-        availableBooksObj.bookAvailability()
+        availableBooksObj.bookAvailability()                                       # Accessing child class method()
     elif choice == 2:
         checkOutBookObj.requestBook()
     elif choice == 3:

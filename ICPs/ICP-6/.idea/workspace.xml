@@ -2,8 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e99bc650-dcef-4c26-b2d0-a236ea9273a7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/ICP/PCA.py" beforeDir="false" afterPath="$PROJECT_DIR$/ICP/PCA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ICP-5/.idea/ICP-5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LabAssignments/Lab-1/PythonLab-1/Task5_Naive_SVM_KNN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LabAssignments/Lab-1/PythonLab-1/Task6_K-Means.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICP-4/.idea/ICP-4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ICP-4/.idea/ICP-4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICP-4/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ICP-4/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICP-4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ICP-4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICP-4/Python_Lesson4/ICP_Tasks/NaiveBayes.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ICP-4/Python_Lesson4/ICP_Tasks/NaiveBayes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICP-4/Python_Lesson4/ICP_Tasks/correlation_task.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ICP-4/Python_Lesson4/ICP_Tasks/correlation_task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICP-5/Python_Lesson5/multiple_regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ICP-5/Python_Lesson5/multiple_regression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../LabAssignments/Lab-1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../LabAssignments/Lab-1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LabAssignments/Lab-1/PythonLab-1/BeautifulSoup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LabAssignments/Lab-1/PythonLab-1/LibraryManagementSystem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LabAssignments/Lab-1/PythonLab-1/LongestSubstring.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LabAssignments/Lab-1/PythonLab-1/MultiDic.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,11 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ICP/PCA.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="65" column="37" lean-forward="true" selection-start-line="65" selection-start-column="37" selection-end-line="65" selection-end-column="37" />
+            <state relative-caret-position="27">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -36,11 +49,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ICP/Clusterusing.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="62" column="12" lean-forward="true" selection-start-line="62" selection-start-column="12" selection-end-line="62" selection-end-column="12" />
+            <state relative-caret-position="150">
+              <caret line="67" column="32" lean-forward="true" selection-start-line="67" selection-start-column="32" selection-end-line="67" selection-end-column="32" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
                 <marker date="1569623019094" expanded="true" signature="1810:2003" ph="..." />
@@ -71,16 +84,6 @@
       <list>
         <option value="$PROJECT_DIR$/ICP/Clusterusing.py" />
         <option value="$PROJECT_DIR$/ICP/PCA.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/ICP-6.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
       </list>
     </option>
   </component>
@@ -131,7 +134,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.PCA">
+  <component name="RunManager" selected="Python.Clusterusing">
     <configuration name="Clusterusing" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ICP-6" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -176,8 +179,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.PCA" />
         <item itemvalue="Python.Clusterusing" />
+        <item itemvalue="Python.PCA" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +202,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -207,7 +210,7 @@
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.27073553" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.12676056" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -226,7 +229,7 @@
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.15649453" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.04694836" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -237,15 +240,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Python_Lesson6/DataAnalysis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python_Lesson6/Iris.csv">
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
@@ -276,23 +270,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ICP/Clusterusing.py">
+    <entry file="file://$PROJECT_DIR$/ICP/PCA.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="62" column="12" lean-forward="true" selection-start-line="62" selection-start-column="12" selection-end-line="62" selection-end-column="12" />
+        <state relative-caret-position="27">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
-            <marker date="1569623019094" expanded="true" signature="1810:2003" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ICP/PCA.py">
+    <entry file="file://$PROJECT_DIR$/Python_Lesson6/DataAnalysis.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="65" column="37" lean-forward="true" selection-start-line="65" selection-start-column="37" selection-end-line="65" selection-end-column="37" />
+        <state>
           <folding>
             <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP/Clusterusing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="67" column="32" lean-forward="true" selection-start-line="67" selection-start-column="32" selection-end-line="67" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <marker date="1569623019094" expanded="true" signature="1810:2003" ph="..." />
           </folding>
         </state>
       </provider>
