@@ -2,20 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3272aa7a-a06a-4945-835d-bf3146085e99" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ICP-5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../LabAssignments/Lab-1/PythonLab-1/Task5_Naive_SVM_KNN.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../LabAssignments/Lab-1/PythonLab-1/Task6_K-Means.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ICP-4/.idea/ICP-4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ICP-4/.idea/ICP-4.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ICP-4/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ICP-4/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICP-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ICP-2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICP-2/LbToKg.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ICP-2/LbToKg.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ICP-4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ICP-4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ICP-4/Python_Lesson4/ICP_Tasks/NaiveBayes.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ICP-4/Python_Lesson4/ICP_Tasks/NaiveBayes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ICP-4/Python_Lesson4/ICP_Tasks/correlation_task.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ICP-4/Python_Lesson4/ICP_Tasks/correlation_task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ICP-6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ICP-6/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../LabAssignments/Lab-1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../LabAssignments/Lab-1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LabAssignments/Lab-1/PythonLab-1/BeautifulSoup.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LabAssignments/Lab-1/PythonLab-1/LibraryManagementSystem.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LabAssignments/Lab-1/PythonLab-1/LongestSubstring.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LabAssignments/Lab-1/PythonLab-1/MultiDic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LabAssignments/Lab-1/PythonLab-1/Task1_LongestSubstring.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../LabAssignments/Lab-1/PythonLab-1/Task1_LongestSubstring.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,12 +17,24 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python_Lesson5/multiple_regression.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+            <state relative-caret-position="615">
+              <caret line="40" column="15" lean-forward="true" selection-start-line="40" selection-start-column="15" selection-end-line="40" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python_Lesson5/regression.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="241">
+              <caret line="56" column="16" selection-start-line="56" selection-start-column="16" selection-end-line="56" selection-end-column="16" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -40,7 +45,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python_Lesson5/remove_anamolies.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-337">
+            <state relative-caret-position="207">
+              <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -51,8 +57,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python_Lesson5/remove_anamolies_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+            <state relative-caret-position="323">
+              <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -72,15 +78,6 @@
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-11" />
     <option name="y" value="-11" />
@@ -93,7 +90,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -110,10 +106,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ICP-6" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -172,13 +170,9 @@
     <frame x="-11" y="-11" width="1386" height="788" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.11859444" />
@@ -186,25 +180,30 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Python_Lesson5/remove_anamolies.py">
+    <entry file="file://$PROJECT_DIR$/Python_Lesson5/remove_anamolies_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-337">
+        <state relative-caret-position="323">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Lesson5/remove_anamolies_2.py">
+    <entry file="file://$PROJECT_DIR$/Python_Lesson5/remove_anamolies.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        <state relative-caret-position="207">
+          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
@@ -213,8 +212,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Python_Lesson5/multiple_regression.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        <state relative-caret-position="615">
+          <caret line="40" column="15" lean-forward="true" selection-start-line="40" selection-start-column="15" selection-end-line="40" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Lesson5/regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="56" column="16" selection-start-line="56" selection-start-column="16" selection-end-line="56" selection-end-column="16" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>

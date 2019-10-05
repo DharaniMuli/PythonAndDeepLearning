@@ -1,4 +1,5 @@
 mainStr= "ababcdxa"
+print("Given String:", mainStr)
 mainStrLength= len(mainStr)
 resultStr=""
 h={}
