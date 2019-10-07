@@ -2,9 +2,19 @@ from termcolor import colored, cprint
 
 
 class availableBooks():                                                                  # Class to check availability of books
-    def __init__(self, booklist=[],bookstore=[], *args):
+
+# This Dictionary is default storage of books with no changes when books issued are returned,
+# This helps us to check whether books has been really issued or not
+    bookStore = {
+        "Book1": 1,
+        "Book2": 2,
+        "Book3": 4,
+        "Book4": 5
+    }
+
+
+    def __init__(self, booklist=[], *args):
         self.booklist=booklist
-        self.bookstore=bookStore
     def bookAvailability(self):
         count=0
         print("""You choose to list all available books and Here is the list:""")
@@ -16,21 +26,19 @@ class availableBooks():                                                         
 class checkOutBook(availableBooks):                                                    # Class for checking out books which inherits
     def requestBook(self):                                                             # properties of "availableBooks" Class(Child Class)
         bookchoice=input("Please enter name of the book:")
-        if self.booklist[bookchoice] == 0:
+        if availableBooks.booklist[bookchoice] == 0:
             color4 = colored("Sorry we don't have the book you requested", 'red')
             print(color4)
         else:
-            booksCount = self.booklist[bookchoice] - 1
-            self.booklist.update({bookchoice: booksCount})
+            booksCount = availableBooks.booklist[bookchoice] - 1
+            availableBooks.booklist.update({bookchoice: booksCount})
             # colored is used to display the text in the required color
             color1 = colored("You book has been issued successfully", 'green')
             print(color1)
 class BookReturn(availableBooks):                                                                       # Class Book Returns
-    def __init__(self):
-       self.booklist= availableBooks.__init__(self,booklist=[])
     def returnBook(self):
         bookchoice = input("Please enter name of the book that you wanted to return:")
-        booksCount = self.booklist[bookchoice] + 1
+        booksCount = availableBooks.booklist[bookchoice] + 1
         if availableBooks.bookStore[bookchoice] >= booksCount:
             availableBooks.booklist.update({bookchoice: booksCount})                        # Accessing and Updating the other class variables
             print("You choose to return ", bookchoice, "and it is successfull")
@@ -39,16 +47,6 @@ class BookReturn(availableBooks):                                               
             print(color3)
 
 if __name__ == '__main__':
-
-    # This Dictionary is default storage of books with no changes when books issued are returned,
-    # This helps us to check whether books has been really issued or not
-    bookStore = {
-        "Book1": 1,
-        "Book2": 2,
-        "Book3": 4,
-        "Book4": 5
-    }
-
     booklist = {
         "Book1": 1,
         "Book2": 2,
@@ -64,7 +62,7 @@ if __name__ == '__main__':
                      3. Return a Book
                   """)
         choice = int(input("Please Enter your choice:"))
-        availableBooksObj = availableBooks(booklist,bookStore)
+        availableBooksObj = availableBooks(booklist)
         checkOutBookObj = checkOutBook()
         BookReturnObj = BookReturn()
         if choice == 1:
