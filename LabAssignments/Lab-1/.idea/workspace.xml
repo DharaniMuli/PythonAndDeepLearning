@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="167199e9-2065-4533-ad4c-6dce89bef74d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PythonLab-1/ssample_lib.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICPs/ICP-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICPs/ICP-2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICPs/ICP-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICPs/ICP-3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonLab-1/Task3_LibraryManagementSystem.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLab-1/Task3_LibraryManagementSystem.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonLab-1/Screenshots/Task_5/exploratory data analysis.PNG" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,11 +32,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PythonLab-1/Task6_K-Means.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+            <state relative-caret-position="102">
+              <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
               <folding>
                 <element signature="e#22#41#0" expanded="true" />
               </folding>
@@ -48,13 +44,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PythonLab-1/Task8_Regression.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="68">
+              <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -200,7 +194,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Task3_LibraryManagementSystem">
+  <component name="RunManager" selected="Python.Task8_Regression (1)">
     <configuration name="Task1_LongestSubstring" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Lab-1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -264,7 +258,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task6_K-Means" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Task8_Regression (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Lab-1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -276,7 +270,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonLab-1/Task6_K-Means.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonLab-1/Task8_Regression.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -308,11 +302,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Task8_Regression (1)" />
         <item itemvalue="Python.Task3_LibraryManagementSystem" />
         <item itemvalue="Python.Task1_LongestSubstring" />
         <item itemvalue="Python.Task2_MultiDic" />
         <item itemvalue="Python.Task8_Regression" />
-        <item itemvalue="Python.Task6_K-Means" />
       </list>
     </recent_temporary>
   </component>
@@ -343,7 +337,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.30637982" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.30637982" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -351,7 +345,7 @@
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.043923866" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.5183016" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39970717" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -468,22 +462,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PythonLab-1/Task8_Regression.py">
+    <entry file="file://$PROJECT_DIR$/PythonLab-1/Task6_K-Means.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="102">
+          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#22#41#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PythonLab-1/Task6_K-Means.py">
+    <entry file="file://$PROJECT_DIR$/PythonLab-1/Task8_Regression.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-          <folding>
-            <element signature="e#22#41#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
         </state>
       </provider>
     </entry>
