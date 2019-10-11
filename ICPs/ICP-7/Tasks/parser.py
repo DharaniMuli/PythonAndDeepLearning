@@ -96,8 +96,8 @@ twenty_train = fetch_20newsgroups(subset='train', shuffle=True)
 tfidf_Vect = TfidfVectorizer()
 X_train_tfidf = tfidf_Vect.fit_transform(twenty_train.data)
 
-# clf = KNeighborsClassifier(n_neighbors=3)
-clf = MultinomialNB()
+clf = KNeighborsClassifier(n_neighbors=3)
+# clf = MultinomialNB()
 clf.fit(X_train_tfidf, twenty_train.target)
 
 twenty_test = fetch_20newsgroups(subset='test', shuffle=True)
@@ -106,7 +106,7 @@ X_test_tfidf = tfidf_Vect.transform(twenty_test.data)
 predicted = clf.predict(X_test_tfidf)
 
 score = metrics.accuracy_score(twenty_test.target, predicted)
-print(score)
+print("KNeighborsClassifier Score",score)
 
 # Task-4(B): Changing TF_IDF Vectorizer to use bi-grams and compare the accuracy
 from sklearn.naive_bayes import MultinomialNB
@@ -125,7 +125,7 @@ X_test_tfidf = tfidf_Vect.transform(twenty_test.data)
 predicted = clf.predict(X_test_tfidf)
 
 score = metrics.accuracy_score(twenty_test.target, predicted)
-print(score)
+print("Score  after changing TF_IDF Vectorizer to use bi-grams",score)
 
 # Task-4(C): Removing stop words and then comparing the accuracy
 twenty_train = fetch_20newsgroups(subset='train', shuffle=True)
@@ -142,4 +142,4 @@ X_test_tfidf = tfidf_Vect.transform(twenty_test.data)
 predicted = clf.predict(X_test_tfidf)
 
 score = metrics.accuracy_score(twenty_test.target, predicted)
-print(score)
+print("Score After Removing stop words",score)
