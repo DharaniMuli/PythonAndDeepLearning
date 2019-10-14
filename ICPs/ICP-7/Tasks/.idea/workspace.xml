@@ -2,16 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07285908-445a-4271-af7d-f7fa03c00914" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Tasks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../LabAssignments/.idea/LabAssignments.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../LabAssignments/Lab-1/PythonLab-1/Task_7_NLTK.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ICP-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP-3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ICP-3/output1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP-3/output1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../LabAssignments/Lab-1/PythonLab-1/Task4_BeautifulSoup.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LabAssignments/Lab-1/PythonLab-1/Task4_BeautifulSoup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LabAssignments/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LabAssignments/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LabAssignments/Lab-1/PythonLab-1/Screenshots/Task_3/Code1.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LabAssignments/Lab-1/PythonLab-1/Screenshots/Task_3/Code2.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LabAssignments/Lab-1/PythonLab-1/Screenshots/Task_3/Code3.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LabAssignments/Lab-1/PythonLab-1/Screenshots/Task_3/Output1.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LabAssignments/Lab-1/PythonLab-1/Screenshots/Task_3/Output1.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LabAssignments/Lab-1/PythonLab-1/Screenshots/Task_3/Output2.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LabAssignments/Lab-1/PythonLab-1/Screenshots/Task_3/Output2.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LabAssignments/Lab-1/PythonLab-1/Screenshots/Task_3/Output3.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LabAssignments/Lab-1/PythonLab-1/Screenshots/Task_3/Output3.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LabAssignments/Lab-1/PythonLab-1/Screenshots/Task_3/Output4.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LabAssignments/Lab-1/PythonLab-1/Screenshots/Task_3/Output4.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LabAssignments/Lab-1/PythonLab-1/Screenshots/Task_3/Output5.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LabAssignments/Lab-1/PythonLab-1/Screenshots/Task_3/Output5.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LabAssignments/Lab-1/PythonLab-1/Screenshots/Task_3/Output6.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LabAssignments/Lab-1/PythonLab-1/Screenshots/Task_3/Output6.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LabAssignments/Lab-1/PythonLab-1/Screenshots/Task_3/Output7.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LabAssignments/Lab-1/PythonLab-1/Screenshots/Task_3/Output7.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LabAssignments/Lab-1/PythonLab-1/Task3_LibraryManagementSystem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LabAssignments/Lab-1/PythonLab-1/ssample_lib.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
