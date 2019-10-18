@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da768644-b18f-425c-9cda-ed108aa39c28" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ICP-7/Tasks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ICP-7/Tasks/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../LabAssignments/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../LabAssignments/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LabAssignments/Lab-1/PythonLab-1/Screenshots/Task_3/Code1.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/../../LabAssignments/Lab-1/PythonLab-1/Screenshots/Task_3/Code1.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LabAssignments/Lab-1/PythonLab-1/Screenshots/Task_3/Code2.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/../../LabAssignments/Lab-1/PythonLab-1/Screenshots/Task_3/Code2.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LabAssignments/Lab-1/PythonLab-1/Screenshots/Task_3/Code3.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/../../LabAssignments/Lab-1/PythonLab-1/Screenshots/Task_3/Code3.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LabAssignments/Lab-1/PythonLab-1/Screenshots/Task_3/Output1.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/../../LabAssignments/Lab-1/PythonLab-1/Screenshots/Task_3/Output1.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LabAssignments/Lab-1/PythonLab-1/Screenshots/Task_3/Output2.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/../../LabAssignments/Lab-1/PythonLab-1/Screenshots/Task_3/Output2.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LabAssignments/Lab-1/PythonLab-1/Screenshots/Task_3/Output3.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/../../LabAssignments/Lab-1/PythonLab-1/Screenshots/Task_3/Output3.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LabAssignments/Lab-1/PythonLab-1/Screenshots/Task_3/Output4.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/../../LabAssignments/Lab-1/PythonLab-1/Screenshots/Task_3/Output4.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LabAssignments/Lab-1/PythonLab-1/Screenshots/Task_3/Output5.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/../../LabAssignments/Lab-1/PythonLab-1/Screenshots/Task_3/Output5.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LabAssignments/Lab-1/PythonLab-1/Screenshots/Task_3/Output6.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/../../LabAssignments/Lab-1/PythonLab-1/Screenshots/Task_3/Output6.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LabAssignments/Lab-1/PythonLab-1/Screenshots/Task_3/Output7.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/../../LabAssignments/Lab-1/PythonLab-1/Screenshots/Task_3/Output7.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LabAssignments/Lab-1/PythonLab-1/Task3_LibraryManagementSystem.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LabAssignments/Lab-1/PythonLab-1/ssample_lib.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +42,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/webscrap.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
+            <state relative-caret-position="367">
               <caret line="24" column="28" lean-forward="true" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
@@ -292,7 +278,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286385" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26134586" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26134586" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -414,7 +400,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/webscrap.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
+        <state relative-caret-position="367">
           <caret line="24" column="28" lean-forward="true" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
