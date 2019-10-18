@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5150ab8f-4525-4b72-807c-22f5f00c5c1d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ICPs/DeepLearning/DeepLearning_Lesson1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ICPs/DeepLearning/DeepLearning_Lesson1/ICP_Tasks/Task_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ICPs/DeepLearning/DeepLearning_Lesson1/ICP_Tasks/Task_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ICPs/ICP-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ICPs/ICP-3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICPs/DeepLearning/DeepLearning_Lesson1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ICPs/DeepLearning/DeepLearning_Lesson1/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
