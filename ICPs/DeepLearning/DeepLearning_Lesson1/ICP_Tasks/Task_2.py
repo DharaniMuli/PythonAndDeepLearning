@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 
 # load dataset
 import pandas as pd
-dataset = pd.read_csv("../Breast_Cancer.csv")
+dataset = pd.read_csv("../breastcancer.csv")
 # print(dataset)
 
 classes = ['Benign', 'Malignant']
@@ -23,10 +23,10 @@ y = labelencoder_X_1.fit_transform(y)
 from sklearn.model_selection import train_test_split
 X_train, X_test, y_train, y_test = train_test_split(x, y, test_size = 0.25, random_state = 0)
 
-# from sklearn.preprocessing import StandardScaler
-# # sc = StandardScaler()
-# # X_train = sc.fit_transform(X_train)
-# # X_test = sc.transform(X_test)
+from sklearn.preprocessing import StandardScaler
+# sc = StandardScaler()
+# X_train = sc.fit_transform(X_train)
+# X_test = sc.transform(X_test)
 
 my_first_nn = Sequential() # create model
 my_first_nn.add(Dense(8, input_dim=30, activation='relu')) # hidden layer
