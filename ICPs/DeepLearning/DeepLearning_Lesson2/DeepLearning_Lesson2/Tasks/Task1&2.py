@@ -9,6 +9,7 @@ from keras.utils import to_categorical
 #display the first image in the training data
 plt.imshow(train_images[0,:,:],cmap='gray')
 plt.title('Ground Truth : {}'.format(train_labels[0]))
+
 # plt.show()
 
 #process the data
