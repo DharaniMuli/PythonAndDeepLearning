@@ -10,7 +10,7 @@ from keras.utils import to_categorical
 plt.imshow(train_images[0,:,:],cmap='gray')
 plt.title('Ground Truth : {}'.format(train_labels[0]))
 
-# plt.show()
+plt.show()
 
 #process the data
 #1. convert each image of shape 28*28 to 784 dimensional which will be fed to the network as a single feature
@@ -24,7 +24,7 @@ test_data = test_data.astype('float')
 #scale data
 train_data /=255.0
 test_data /=255.0
-#change the labels frominteger to one-hot encoding
+#change the labels from integer to one-hot encoding
 train_labels_one_hot = to_categorical(train_labels)
 test_labels_one_hot = to_categorical(test_labels)
 
@@ -43,8 +43,8 @@ print("Evaluation result on Test Data : Loss = {}, accuracy = {}".format(test_lo
 
 # Task-1 : Plotting the graph for accuracy & loss values respectively of both train and test data.
 print(history.history.keys())
-
-# For accuracy values
+#
+# # For accuracy values
 plt.plot(history.history['acc'])
 plt.plot(history.history['val_acc'])
 plt.title('model accuracy')
