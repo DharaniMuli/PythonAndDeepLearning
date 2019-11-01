@@ -11,7 +11,7 @@ df = pd.read_csv('../imdb_master.csv',encoding='latin-1') # --> Changed the csv 
 print(df.head())
 sentences = df['review'].values
 y = df['label'].values
-print(np.unique(y))  # --> Gives 3 labels as {neg, pos, unsup}
+print(np.unique(y))  # --> Printing unique lables i.e; 3 labels as {neg, pos, unsup}
 
 #tokenizing data
 tokenizer = Tokenizer(num_words=2000)

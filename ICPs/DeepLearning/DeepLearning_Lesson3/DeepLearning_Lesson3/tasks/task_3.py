@@ -11,12 +11,13 @@ from keras.layers.embeddings import Embedding
 
 
 from sklearn.datasets import fetch_20newsgroups
+
+# taken 20_newsgroup data set
 df =fetch_20newsgroups(subset='train', shuffle=True)
 
-#df = pd.read_csv('./imdb_master.csv',encoding='latin-1') # --> Changed the csv file where 'id' column name is missing
 sentences = df.data
 y = df.target
-print(np.unique(y))  # --> Gives 3 labels as {neg, pos, unsup}
+print(np.unique(y))
 
 #tokenizing data
 tokenizer = Tokenizer(num_words=2000)
