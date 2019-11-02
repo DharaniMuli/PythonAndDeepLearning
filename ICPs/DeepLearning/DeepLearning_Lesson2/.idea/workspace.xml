@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d50c16c-dfaf-4a78-9b00-f00d706e2342" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DeepLearning_Lesson3/DeepLearning_Lesson3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DeepLearning_Lesson3/DeepLearning_Lesson3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeepLearning_Lesson3/DeepLearning_Lesson3/tasks/bonus_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../DeepLearning_Lesson3/DeepLearning_Lesson3/tasks/bonus_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeepLearning_Lesson3/DeepLearning_Lesson3/tasks/bonus_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../DeepLearning_Lesson3/DeepLearning_Lesson3/tasks/bonus_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DeepLearning_Lesson3/DeepLearning_Lesson3/tasks/task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../DeepLearning_Lesson3/DeepLearning_Lesson3/tasks/task_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DeepLearning_Lesson3/DeepLearning_Lesson3/tasks/task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../DeepLearning_Lesson3/DeepLearning_Lesson3/tasks/task_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DeepLearning_Lesson3/DeepLearning_Lesson3/tasks/task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../DeepLearning_Lesson3/DeepLearning_Lesson3/tasks/task_3.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +32,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DeepLearning_Lesson2/Tasks/Task3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
+            <state relative-caret-position="561">
               <caret line="33" column="19" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="19" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
@@ -42,8 +44,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DeepLearning_Lesson2/Tasks/Bonus.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="55" column="30" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
+            <state relative-caret-position="561">
+              <caret line="33" column="39" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="39" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -54,8 +56,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DeepLearning_Lesson2/Tasks/Task1_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+            <state relative-caret-position="578">
+              <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -291,7 +293,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DeepLearning_Lesson2/Tasks/Task3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
+        <state relative-caret-position="561">
           <caret line="33" column="19" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="19" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
@@ -301,8 +303,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DeepLearning_Lesson2/Tasks/Bonus.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="55" column="30" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
+        <state relative-caret-position="561">
+          <caret line="33" column="39" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="39" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
@@ -311,8 +313,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DeepLearning_Lesson2/Tasks/Task1_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+        <state relative-caret-position="578">
+          <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>

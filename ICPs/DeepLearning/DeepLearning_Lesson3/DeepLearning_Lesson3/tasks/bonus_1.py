@@ -11,7 +11,7 @@ from keras.layers.embeddings import Embedding
 import matplotlib.pyplot as plt
 
 
-df = pd.read_csv('./imdb_master.csv',encoding='latin-1') # --> Changed the csv file where 'id' column name is missing
+df = pd.read_csv('../imdb_master.csv',encoding='latin-1') # --> Changed the csv file where 'id' column name is missing
 print(df.head())
 sentences = df['review'].values
 y = df['label'].values
