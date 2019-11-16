@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0238131-a385-4b4f-bfc9-474a9435b909" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/tasks/bonus_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DeepLearning_Lesson4/DeepLearning_Lesson4/Tasks/Part-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DeepLearning_Lesson4/DeepLearning_Lesson4/Tasks/Part-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DeepLearning_Lesson4/DeepLearning_Lesson4/Tasks/Part-2_Sample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DeepLearning_Lesson4/DeepLearning_Lesson4/Tasks/Part-3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../DeepLearning_Lesson2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../DeepLearning_Lesson2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +74,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tasks/bonus_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
+            <state relative-caret-position="527">
               <caret line="41" column="25" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="25" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
@@ -83,7 +87,7 @@
         <entry file="file://$PROJECT_DIR$/tasks/bonus_3.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
-              <caret line="52" column="27" lean-forward="true" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="27" />
+              <caret line="52" column="27" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="27" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -160,7 +164,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../DeepLearning_Lesson4/DeepLearning_Lesson4" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -247,7 +251,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-10" y="0" width="1386" height="788" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20029673" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -313,6 +316,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tasks/bonus_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="41" column="25" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tasks/bonus_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
@@ -323,20 +336,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tasks/bonus_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="41" column="25" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tasks/bonus_3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
-          <caret line="52" column="27" lean-forward="true" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="27" />
+          <caret line="52" column="27" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="27" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
