@@ -61,7 +61,7 @@ print(X_train.shape,Y_train.shape)
 print(X_test.shape,Y_test.shape)
 
 model = createmodel()
-model.fit(X_train, Y_train, epochs = 4, batch_size=40, verbose = 2)
+history = model.fit(X_train, Y_train, epochs = 4, batch_size=40, verbose = 2)
 # twt = ['A lot of good things are happening. We are respected again throughout the world, and that\'s a great thing']
 
 score,acc = model.evaluate(X_test,Y_test,verbose=2,batch_size=40)
@@ -73,3 +73,12 @@ model1_json = model.to_json()
 with open('model1.json', 'w') as json_file:
     json_file.write(model1_json)
 model.save_weights('model1.h5')
+
+epoch_count = range(1, len(history.history['loss']) + 1)
+import matplotlib.pyplot as plt
+plt.plot(epoch_count, history.history['loss'], 'r--')
+plt.plot(epoch_count, history.history['val_loss'], 'b-')
+plt.legend(['Training Loss', 'Validation Loss'])
+plt.xlabel('Epoch')
+plt.ylabel('Loss')
+plt.show()
